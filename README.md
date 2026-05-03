@@ -322,3 +322,7 @@ El proyecto no busca simplemente “emular un Z80”, sino construir progresivam
 Proyecto desarrollado por **Raúl Santos Quirós**.
 
 Repositorio: `raul-sq/z80yPico`
+
+## Agradecimientos
+
+Quisiera agradecer a Sergio Ucedo su ayuda para desarrollar la instrucción GOTO.
