@@ -325,4 +325,4 @@ Repositorio: `raul-sq/z80yPico`
 
 ## Agradecimientos
 
-Quisiera agradecer a **Sergio Ucedo** su ayuda para desarrollar la instrucción GOTO.
+Quisiera agradecer a **Sergio Ucedo** (`xerchion`) su ayuda para desarrollar la instrucción GOTO.
