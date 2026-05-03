@@ -1,0 +1,9 @@
+10 PRINT "Antes del GOTO."
+20 GOTO 40
+30 PRINT "Inalcanzable."
+35 STOP
+40 PRINT "Desde el GOTO."
+50 GOTO 70
+60 GOTO 30
+70 PRINT "GOTO final."
+80 GOTO 60

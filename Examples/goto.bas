@@ -1,0 +1,5 @@
+10 LET a=1
+20 PRINT "Probando GOTO."
+30 LET a=a+1
+40 IF a>10 THEN STOP
+50 GOTO 20
