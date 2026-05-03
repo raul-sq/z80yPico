@@ -1004,7 +1004,7 @@ CMD_WD_KW:      DB      "WD", 0
 CMD_PWD_KW:     DB      "PWD", 0
 
 MSG_WELCOME:
-                DB      "Z80&Pico Emulator Demo", 13, 10
+                DB      "Z80yPico Emulator Demo", 13, 10
                 DB      13, 10
                 DB      "By Raul Santos Quiros 2026", 13, 10
                 DB      13, 10
